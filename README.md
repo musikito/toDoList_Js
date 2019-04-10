@@ -1,4 +1,5 @@
 #  Using Vanilla JavaScript
+![image of the page](https://github.com/musikito/toDoList_Js/blob/master/img/Screen%20Shot%202019-04-10%20at%206.04.19%20PM.png)
 
 The user's to-do list is stored in the local storage, so when he refreshes the page, he can always find the list there.
 
